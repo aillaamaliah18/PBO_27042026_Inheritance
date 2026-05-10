@@ -27,7 +27,7 @@ public class Employee {
     }
     
     public int getSalary(){
-        return salary;
+        return salary; 
     }
     
     public void setSalary(int salary){
@@ -35,7 +35,7 @@ public class Employee {
     }
     
     public int getAnnualSalary(){
-        return salary * 12;
+        return salary *12;
     }
     
     public int raiseSalary(int percent){

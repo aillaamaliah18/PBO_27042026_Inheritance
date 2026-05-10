@@ -23,5 +23,5 @@ public class MainKueEnkapsulasi {
         
         System.out.println("\n=== DATA KUE ===");
         kue.tampilInfo();
-    }
+    } 
 }

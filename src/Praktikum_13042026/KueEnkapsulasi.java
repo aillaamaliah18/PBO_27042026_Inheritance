@@ -62,3 +62,4 @@ public class KueEnkapsulasi {
         System.out.println("Total Jual : " + hitungTotal());
     }
 }
+ 
