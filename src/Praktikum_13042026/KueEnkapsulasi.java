@@ -41,7 +41,7 @@ public class KueEnkapsulasi {
     public void setHarga(double harga){
         this.harga = harga;
     }
-    
+     
     public void setJumlah(int jumlah){
         this.jumlah = jumlah;
     }

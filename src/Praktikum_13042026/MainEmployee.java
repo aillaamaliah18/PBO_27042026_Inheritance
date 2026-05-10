@@ -19,3 +19,4 @@ public class MainEmployee {
         System.out.println("Setelah Naik Gaji 10% : " + emp.getSalary());
     } 
 }
+ 
